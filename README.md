@@ -19,4 +19,4 @@
 
 Link da Pagina: https://meugit204.github.io/Projeto-aula.github.io/
 
-![imagem do html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white);
+![imagem do html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
