@@ -1,5 +1,5 @@
 # SITE - DANKI CODE 👨‍💻
-LINK DO SITE DESENVOLVIDO: https://meugit204.github.io/CURSO-SITE-DANKI_CODE.github.io/
+LINK DO SITE DESENVOLVIDO: https://meugit204.github.io/CURSO-SITE-danki_code.github.io/
 
 DESCRIÇAO:
 
