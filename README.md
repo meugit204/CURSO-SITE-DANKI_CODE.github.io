@@ -9,7 +9,7 @@ DESCRIÇAO:
  .
  ## FUNCIONALIDADES
  
- Navegaçao, Banner, Melhores lugares para se visitar, Sobre a agencia e um formulário para se entrar em contato.
+ Navegaçao, Banner, Sobre o curso e um formulário para se entrar em contato.
  
  ### MELHORIAS PARA SE FAZER NO PROJETO
  - [ ] Site responsivo
