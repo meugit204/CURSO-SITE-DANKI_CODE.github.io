@@ -12,12 +12,11 @@ DESCRIÇAO:
  Navegaçao, Banner, Melhores lugares para se visitar, Sobre a agencia e um formulário para se entrar em contato.
  
  ### MELHORIAS PARA SE FAZER NO PROJETO
- - [x] Site responsivo
- - [ ] Website leve
- - [ ] Layout interessante
- - [ ] Conteúdo de qualidade
+ - [ ] Site responsivo
+ - [x] Website leve
+ - [x] Conteúdo de qualidade
  - [ ] Palavras-chave
- - [ ] Navegação intuitiva
+ - [x] Navegação intuitiva
  - [ ] Funcionamento no celular
  - [ ] Site seguro
 
