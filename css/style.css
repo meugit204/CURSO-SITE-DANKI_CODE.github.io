@@ -20,7 +20,7 @@ html, body {
 }
 
 .paragrafo-topo {
-    background-image: url(/imagens/header_bg.png);
+    background-image: url(../imagens/header_bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -176,6 +176,7 @@ html, body {
     text-align: center;
     padding: 20px 0;
 }
+<<<<<<< HEAD
 
 /*
 Mobile
@@ -212,3 +213,5 @@ Mobile
         width: 90%;
     }
 }
+=======
+>>>>>>> 09b8b25e72d060056e301a38ea79050444a34aa6
